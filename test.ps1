@@ -1,1 +1,1 @@
-[System.Windows.MessageBox]::Show('Hello')
+Write-Host "Hello World"
